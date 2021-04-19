@@ -35,8 +35,8 @@ for idx, name in enumerate(alist):
 # 2 Chris
 ```
 
-`enumerate` によって返される要素番号の初期値は、`start` 引数により任意
-に設定することができる。初期値のデフォルトはゼロである。
+`enumerate` によって返される要素番号の初期値は、キーワード引数 `start`
+により任意に設定することができる。`start` のデフォルト値はゼロである。
 
 ```python
 lines = [
@@ -52,6 +52,8 @@ for lineno, line in enumerate(lines, start=1):
 # 2 iteration. The __next__() method of the iterator returned by enumerate() returns a tuple containing a count
 # 3 (from start which defaults to 0) and the values obtained from iterating over iterable.
 ```
+
+今後の資料において、キーワード引数の詳細は説明する。
 
 ## range を利用した繰り返し
 

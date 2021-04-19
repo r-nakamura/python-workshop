@@ -4,8 +4,8 @@
 ます。大学の講義などにおいて、他のプログラミング言語 (特に、C 言語) を
 学んだ経験があることを想定した資料になっています。
 
-資料の構成は [Perl 入学式](https://www.perl-entrance.org/) を参考にし
-ています。
+資料の構成や練習問題は [Perl 入学式](https://www.perl-entrance.org/)
+を参考にしています。
 
 ## 目次
 
@@ -15,6 +15,10 @@
 4. [辞書](https://github.com/r-nakamura/python-workshop/blob/master/dict.md)
 5. [リストや辞書を組み合わせたデータ構造](https://github.com/r-nakamura/python-workshop/blob/master/list-dict.md)
 6. [if/elif/else による条件分岐](https://github.com/r-nakamura/python-workshop/blob/master/if-elif-else.md)
+7. [for や while による繰り返し](https://github.com/r-nakamura/python-workshop/blob/master/for-while.md)
+8. 関数
+9. ファイル読み込み
+10. 正規表現
 
 ## 参考書籍
 
