@@ -7,6 +7,15 @@
 資料の構成は [Perl 入学式](https://www.perl-entrance.org/) を参考にし
 ています。
 
+## 目次
+
+1. [準備](https://github.com/r-nakamura/python-workshop/blob/master/preliminary.md)
+2. [変数](https://github.com/r-nakamura/python-workshop/blob/master/variable.md)
+3. [リスト](https://github.com/r-nakamura/python-workshop/blob/master/list.md)
+4. [辞書](https://github.com/r-nakamura/python-workshop/blob/master/dict.md)
+5. [リストや辞書を組み合わせたデータ構造](https://github.com/r-nakamura/python-workshop/blob/master/list-dict.md)
+6. [if/elif/else による条件分岐](https://github.com/r-nakamura/python-workshop/blob/master/if-elif-else.md)
+
 ## 参考書籍
 
 * 入門 Python3 - Bill Lubanovic 著, ISBN978-4-87311-932-8, [https://www.oreilly.co.jp/books/9784873119328/](https://www.oreilly.co.jp/books/9784873119328/)
