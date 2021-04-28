@@ -230,7 +230,7 @@ print(astr) # A,B,C
 
 1. `['Alice', 'Bob', 'Chris']` というリスト `alist` を宣言せよ
 2. リスト `alist` の末尾に Diana を追加し、 `['Alice', 'Bob', 'Chris', 'Diana']` というリストを作成せよ
-3. リスト `array` の先頭に Eve を追加し、 `['Eve', 'Alice', 'Bob', 'Chris', 'Diana']` というリストを作成せよ
+3. リスト `alist` の先頭に Eve を追加し、 `['Eve', 'Alice', 'Bob', 'Chris', 'Diana']` というリストを作成せよ
 
 ## 練習問題: list_pop.py
 
