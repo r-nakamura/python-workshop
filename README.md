@@ -16,7 +16,7 @@
 5. [リストや辞書を組み合わせたデータ構造](https://github.com/r-nakamura/python-workshop/blob/master/list-dict.md)
 6. [if/elif/else による条件分岐](https://github.com/r-nakamura/python-workshop/blob/master/if-elif-else.md)
 7. [for や while による繰り返し](https://github.com/r-nakamura/python-workshop/blob/master/for-while.md)
-8. 関数
+8. [関数](https://github.com/r-nakamura/python-workshop/blob/master/function.md)
 9. ファイル読み込み
 10. 正規表現
 
